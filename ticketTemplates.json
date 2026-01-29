@@ -1,0 +1,20 @@
+{
+  "Suporte": {
+    "title": "🛠️ Suporte",
+    "description": "Olá {user}, descreva seu problema.",
+    "color": 8311585,
+    "image": ""
+  },
+  "Orçamento": {
+    "title": "💰 Orçamento",
+    "description": "Olá {user}, envie os detalhes do orçamento.",
+    "color": 15844367,
+    "image": ""
+  },
+  "Parceria": {
+    "title": "🤝 Parceria",
+    "description": "Olá {user}, fale sobre a parceria.",
+    "color": 5763719,
+    "image": ""
+  }
+}
