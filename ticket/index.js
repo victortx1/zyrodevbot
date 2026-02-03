@@ -55,7 +55,7 @@ client.on("messageCreate", async (message) => {
           value:
 `**20.** Use blocos de código com 3 crases  
 \`\`\`js
-console.log("Exemplo");
+console.log("Exemplo ");
 \`\`\`  
 **21.** Faça perguntas detalhadas para receber ajuda melhor`
         },
